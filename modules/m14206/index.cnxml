@@ -1,0 +1,369 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Introduction to Connexions</title>
+  <metadata>
+  <md:content-id>m14206</md:content-id><md:title>Introduction to Connexions</md:title>
+  <md:abstract>An overview of Connexions, the Connexions home page, navigation tools, and accounts.</md:abstract>
+  <md:uuid>1ad02701-9196-43cd-a1fd-276450039dab</md:uuid>
+</metadata>
+
+<content>
+
+<note id="depricated" type="warning">This module contains Connexions documentation which is out-of-date.  The contents of this module are provided here for historical purposes only and <emphasis>should not be considered accurate</emphasis> for the current version of the Connexions website.  The current documentation of topics in this module can be located at <link document="m10884">http://cnx.org/content/m10884/latest/</link>.  Please visit the <link url="/help">help page</link> for up-to-date information about the Connexions website, including support for viewing and authoring content and the CNXML language. If you have any additional questions or cannot find the answer to your question, please contact <link url="mailto:techsupport@cnx.org">techsupport@cnx.org</link> and we will be happy to assist in any way we can.</note>
+
+    <section id="overview1">
+      <title>Overview</title>
+
+      <para id="overviewpara">
+        Connexions is a web-based document creation and management system 
+        for education and research materials. There are two parts to 
+        Connexions: a Content Commons that contains these materials and 
+        the software tools necessary to create, manage, and access these 
+        materials. A <link url="http://cnx.rice.edu/aboutus/tour/">tour</link> 
+        of the workings of Connexions and its parts appears on the Connexions 
+        web page, under the "About" tab.
+      </para>
+
+      <para id="overview2">
+        From its inception, Connexions was designed to allow the 
+        collaborative development and free availability of material. 
+        Instructors and authors can modify this material for any 
+        educational purpose. Connexions offers Free/Open Source software 
+        tools to help students, instructors, and authors manage these 
+        information assets for sharing and advancing knowledge to 
+        benefit the global educational community. All of this is 
+        accomplished through the use of the 
+        <link url="http://creativecommons.org/licenses/by/1.0/">Creative 
+        Commons Attribution license</link>.
+      </para>
+
+      <para id="overview3">
+        There are three general categories of Connexions users: 
+	<list id="cnxuserlist">
+	  <item>Students - who use Connexions to access information on-line, 
+          to prepare for their classes.</item>
+	  <item>Authors - who enter content into Connexions in document 
+          files called modules.</item>
+	  <item>Instructors - who build courses, which are documents created 
+          by linking related modules together in a specific order.</item>
+	  </list>
+      </para>
+
+      <figure id="element-403"><title>Connexions Knowledge Factory</title>
+  <media id="id5981480" alt=""><image src="../../media/cnx.jpg" mime-type="image/jpeg"/></media>
+  <caption>Connexions Knowledge Factory.</caption></figure><para id="overview4">
+        Before you begin using the Connexions system, you should verify 
+        that you have all of the necessary software. Visit the 
+        <link url="http://cnx.rice.edu/help/qstart/">Connexions Quick Start 
+        Guide</link> for a listing of the software that you will need and 
+        the links to help you download it. 
+      </para>
+    </section>
+
+    <section id="cnx_home_section">
+      <title>The Connexions Home Page</title>
+
+      <para id="cnx_home_intro">
+	The <link target-id="cnx_home_figure">Connexions home page</link> is 
+        the starting point for your use of Connexions. It contains the 
+        following items:
+
+	<list id="home_list">
+	  <item><link target-id="tabsection">Home, About, Content, Software,
+	  and Help tabs</link></item>
+	  <item><link target-id="breadcrumbsection">Breadcrumb Navigation 
+           Bar</link></item>
+	  <item><link target-id="searchsection">Search</link></item>
+	  <item><link target-id="quickstartsection">Quick Start</link></item>
+	  <item><link target-id="coursesection">Courses</link></item>
+	  <item><link target-id="personalsection">Personal toolbar</link></item>
+	  <item><link target-id="navigationsection">Navigation Sidebar
+           </link></item>
+	  <item><link target-id="loginsection">Login Sidebar</link></item>
+	  <item><link target-id="spotlightsection">Spotlight Sidebar</link></item>
+	  <item><link target-id="mailbagsection">e-Mailbag Sidebar</link></item>
+	  <item><link target-id="whatsnewsection">What's New Sidebar</link></item>
+	  <item><link target-id="workspacessection">Workspaces 
+           Sidebar</link></item>
+	</list>
+	
+	These items also appear on the other Connexions web pages. 
+
+	<figure id="cnx_home_figure"><media id="id1169488098231" alt=""><image src="../../media/cnxhomepagex.png" mime-type="image/png"/></media>
+	  <caption>Connexions home page</caption></figure>
+
+      </para>
+
+      <section id="tabsection">
+      <title>Home, About, Content, Software, and Help Tabs</title>
+       <para id="tabpara1">
+        On the upper left of the Connexions home page are tabs 
+        labeled "Home", "About", "Content", "Software", and "Help". Clicking on 
+        these tabs display the following Connexions pages:
+
+       <list id="tablist">
+         <item><link url="http://cnx.rice.edu/">Home</link> 
+           returns to the Connexions home page.</item>
+         <item><link url="http://cnx.rice.edu/aboutus/">About</link> 
+           displays the "About" page that contains a general description 
+           of Connexions and links to more detailed information about 
+           Connexions, how it works, the people behind it, and a list 
+           of contacts.</item>
+         <item><link document="">Content</link> 
+           displays a set of tabs that will list modules 
+           by title, author, or keywords, and list the courses.</item>
+         <item><link url="http://cnx.rice.edu/technology/">Software</link> 
+           displays the "Connexions Technology" page that contains 
+           links to Connexions software and tools.</item>
+         <item><link url="http://cnx.rice.edu/help/">Help</link> 
+           displays the "Help" page that contains links to installation, 
+           reference, and other information to answer your questions 
+           about Connexions.</item>
+        </list> 
+      </para>
+      </section>
+
+      <section id="breadcrumbsection">
+	<title>Breadcrumb Navigation Bar</title>
+
+	<para id="breadpara1">
+	The "You are here" <link target-id="breadcrumbfig">Breadcrumb navigation bar</link> 
+        is located just below the "Home", "About", "Content", "Software", and "Help" 
+        tabs. This navigation tool is a breadcrumb trail of the Connexions 
+        pages you have displayed as you have drilled into Connexions to get 
+        to the current page. By clicking on any point within the breadcrumb 
+        trail you can return to that page. This feature is very useful for 
+        returning to the workgroup level page after working with the items 
+        within the workgroup.
+	
+        <figure id="breadcrumbfig">
+          <media id="id5934332" alt=""><image src="../../media/breadcrumbtrail.png" mime-type="image/png"/></media>
+	  <caption>Breadcrumb navigation bar</caption> 
+        </figure>
+	  
+	</para>
+      </section>
+
+      <section id="searchsection">
+	<title>Search</title>
+	<para id="searchpara1">
+	  You can search the Content Commons for a specific module or a 
+	  course using the <code>Search</code> button and text box in the 
+	  upper right of the Connexions home page. Type in a name, keyword, 
+          course title, module title, text string, or object ID in the Search 
+          text box and click <code>Search</code>. Connexions will display a 
+          list of all modules and courses that match your entry. To view a 
+          module or course, click on its title. 
+	</para>
+
+      </section>
+
+      <section id="quickstartsection">
+	<title>Quick Start Link</title>
+	<para id="quickstartpara1">
+          Clicking on this link in the upper right of the Connexions 
+          home page displays the "Connexions Quick Start Guide" page. 
+          This page helps authors and instructors get started creating 
+          content with Connexions quickly.
+	</para>
+      </section>
+    
+      <section id="coursesection">
+	<title>Courses Link</title>
+	<para id="coursespara1">
+          This link in the upper right of the Connexions home page 
+          displays a list of the courses currently in the Connexions 
+          Content Commons. You can sort the display by course title, 
+          institution, or instructor to help you find a course. 
+          To open a course, click on the name of the course. 
+	</para>
+      </section>
+      
+      <section id="personalsection">
+	<title>Personal Toolbar</title>
+	<para id="personalpara1">
+          The personal toolbar is located under the "Quick Start" and 
+          "Courses" links. The options on this toolbar vary, depending
+          on whether you are logged into the system or not.
+ 	</para>
+
+        <para id="personalpara2">
+          If you are not logged into Connexions or you do not have a Connexions
+          account, you can perform the following actions by clicking on the 
+          links in this <link target-id="personaltbfig">toolbar</link>: 
+         
+       <list id="personallist">
+         <item><link target-id="loginoutpara1">Log into the system</link></item>
+         <item><link document="m11836">Report a bug</link></item>
+         <item><link target-id="accountsection">Apply for a Connexions 
+         account</link></item>
+       </list>
+
+        <figure id="personaltbfig">
+          <media id="id2130425" alt=""><image src="../../media/personaltblo.png" mime-type="image/png"/></media>
+	  <caption>Personal toolbar before login</caption> 
+        </figure>
+	  
+	</para>
+
+        <para id="personalpara3">
+          If you have a Connexions account and are logged into 
+          the system, you can perform the following actions by 
+          clicking on the links in this 
+          <link target-id="personaltbfig2">toolbar</link>:
+
+         <list id="personallist2">
+           <item>Display your personal workspace</item>
+           <item>Specify your personal preferences for your Connexions 
+           account, such as your title, your name, your e-mail address, 
+           your homepage URL, whether or not you want form help, and 
+           whether or not you want to display names. You can also reset 
+           your account password.</item>
+           <item>Report a bug</item>
+           <item>Log out of the system</item>
+          </list>
+
+        <figure id="personaltbfig2">
+          <media id="id1169494209256" alt=""><image src="../../media/personaltb.png" mime-type="image/png"/></media>
+	  <caption>Personal toolbar after login</caption> 
+        </figure>
+        </para>
+      </section>
+
+      <section id="navigationsection">
+	<title>Navigation Sidebar</title>
+	<para id="navigationpara1">
+          This sidebar contains links to useful information about 
+          Connexions, similar to the information you can access through 
+          the "Home", "About", "Content", "Software", and "Help" tabs.
+  	</para>
+      </section>
+
+      <section id="loginsection">
+	<title>Log in Sidebar</title>
+	<para id="loginpara1">
+          If you have a Connexions account, you can log into the system 
+          in this sidebar. In addition, there is a link to reset your 
+          password (if you forgot it), and a link to the page for 
+          requesting a new Connexions <link target-id="accountsection">account</link>. This <link target-id="loginbox">sidebar</link> displays if you are 
+          <term>not</term> logged into the system.
+
+	<figure id="loginbox">
+	  <media id="id6487990" alt=""><image src="../../media/loginbox.png" mime-type="image/png"/></media>
+	  <caption>"Log in" sidebar</caption>
+	</figure>
+  	</para>
+      </section>
+      
+      <section id="spotlightsection">
+	<title>Spotlight Sidebar</title>
+	<para id="spotpara1">
+          This sidebar features a Connexions author who is being recognized 
+          for outstanding contributions to the Connexions Content Commons. 
+          A picture of the author appears along with a description of their
+          work and links to their Connexions content.
+  	</para>
+      </section>
+
+      <section id="mailbagsection">
+	<title>e-Mailbag Sidebar</title>
+	<para id="mailbagpara1">
+          This sidebar displays examples of user comments submitted to 
+          Connexions. There is a link to additional user comments. 
+  	</para>
+      </section>
+
+      <section id="whatsnewsection">
+	<title>What's New Sidebar</title>
+	<para id="whatsnewpara1">
+          This sidebar contains links to 
+          <link url="http://cnx.rice.edu/news/news_all">news items</link> 
+          about the latest developments with Connexions.
+  	</para>
+      </section>
+
+      <section id="workspacessection">
+	<title>Workspaces Sidebar</title>
+	<para id="workspacespara1">
+          This <link target-id="workspacesfigure">sidebar</link> contains links 
+          to your personal workspace, any workgroups of which you are a member, 
+          and the <link url="http://cnx.rice.edu/create_workgroup">Create 
+          Workgroup</link> page where you can create a workgroup. This item 
+          only displays if you <term>are</term> logged into the system.
+
+	<figure id="workspacesfigure">
+	<media id="id3089347" alt=""><image src="../../media/workspacebox-a686.png" mime-type="image/png"/></media>
+	<caption>"Workspaces" sidebar</caption>
+	</figure>
+
+  	</para>
+      </section>
+
+    </section>
+
+    <section id="accountsection">
+	<title>Account Requests</title>
+
+      <para id="accountpara1">
+	To apply for a Connexions account, use the following steps:
+
+	<list id="accountlist" list-type="enumerated">
+	  <item>Click on the <emphasis>New author or instructor?</emphasis> link in the 
+	  "Log in" sidebar. The <link target-id="requestfig">Request a 
+	  Connexions Account</link> page displays.
+
+      <figure id="requestfig">
+	<media id="id1169488653579" alt=""><image src="../../media/accountreq20.png" mime-type="image/png"/></media>
+	<caption>"Request a Connexions Account" page</caption>
+      </figure>
+
+          </item>
+          <item>Type in your title, name, e-mail, and home page URL. 
+          The fields with red squares next to the field names are 
+          required.</item> 
+          <item>Click <code>Continue</code>. The "Account Request: 
+          Select Username" page displays.</item> 
+          <item>Type in a user name. A list of suggested usernames that 
+          are based on your entries in the First, Middle, and Last Name 
+          fields is shown.</item>
+          <item>(Optional) Type in the fields of study for your contribution,
+          indicate how you found out about Connexions, type in any comments
+          you may have, and indicate if you would be willing to help test 
+          new features. </item>
+          <item>Click <code>Continue</code>. The "Account Request: 
+          Confirmation" page displays.</item> 
+          <item>Review the site license agreement.</item>
+          <item>Select the checkbox that says you have read and agree 
+          to the site license.</item>
+          <item>Click <code>Request Account</code>. The "Account Request 
+          Complete" page displays. Connexions will send an e-mail to the 
+          address you entered in the step above. The e-mail contains 
+          directions for activating your new account.</item>
+	</list>
+      </para>
+      </section>
+
+    <section id="loginout">
+      <title>Logging In and Out</title>
+      <para id="loginoutpara1">
+        To log into Connexions, enter your user name and password in 
+        the "Log in" sidebar and click <code>Log in</code>. 
+      </para>
+ 
+       <para id="loginoutpara3">
+        Once you have logged in, the "Log in" sidebar is replaced by 
+        the <link target-id="workspacessection">Workspaces sidebar</link>. 
+        The <emphasis>My Workspace</emphasis> and <emphasis>My Preferences</emphasis> 
+        links appear in the "Personal" toolbar. 
+       </para>
+
+      <para id="loginoutpara2">
+        To log out, click the <emphasis>Log out</emphasis> link located in the 
+        <link target-id="personaltbfig2">Personal toolbar</link>, in the upper 
+        right side of the Connexions home page. 
+       </para>
+
+    </section>
+
+  </content>
+  
+</document>

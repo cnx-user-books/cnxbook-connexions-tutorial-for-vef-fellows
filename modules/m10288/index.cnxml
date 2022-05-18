@@ -1,0 +1,339 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  
+  <title>How to Use the Collection Composer</title>
+
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m10288</md:content-id>
+  <md:title>How to Use the Collection Composer</md:title>
+  <md:abstract>Instructions on how to use the Connexions Collection Composer (formerly known as the Course Composer).</md:abstract>
+  <md:uuid>83ead6e4-adfc-48cb-9ba5-143b9cdab253</md:uuid>
+</metadata>
+<featured-links>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit below.
+       Changes to the links section in the source will not be saved. -->
+    <link-group type="supplemental">
+      <link url="http://cnx.org/help/authoring/expressedit" strength="3">Adaptations Help</link>
+    </link-group>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit above.
+       Changes to the links section in the source will not be saved. -->
+</featured-links>
+<content>
+    <section id="intro">
+      <title>The Connexions Collection Composer</title>
+    <para id="delete_me">The Collection Composer (formerly known as the Course Composer) allows you to create new collections or edit existing collections. Any number of modules within Connexions' Content Repository can be used to create a collection. You can perform the following tasks with the Collection Composer:
+      <list id="firstlist" list-type="bulleted"><item><link target-id="arranging">Add and arrange elements</link>
+          <list id="eip-id1167549347527">
+            <item><link target-id="addmodulesection">Add a module</link></item>
+            <item><link target-id="addsection">Add a new subcollection (section)</link></item>
+            <item><link target-id="rearrange">Rearrange contents</link></item>
+            <item><link target-id="removesection">Remove contents</link></item>
+            <item><link target-id="advanced-edits">Advanced editing of the collection's elements</link>
+              <list id="eip-id1167524388125">
+                <item><link target-id="changetitle">Provide an alternate module title</link></item>
+                <item><link target-id="setversion">Select the module version</link></item>
+                <item><link target-id="editaddlinkssection">Edit or add links on a module</link></item>
+              </list>
+            </item>
+          </list>
+        </item>
+
+        <item><link target-id="existintsection">Edit an existing collection</link></item>
+      </list>
+    </para>   
+    </section>
+    
+    
+
+    
+
+    <section id="arranging">
+       <title>Adding and Arranging Elements</title>
+
+    <para id="eip-507">At this point, you should have landed on the "Contents" tab of the collection composer.  This is where you will add and arrange the contents of your collection.  Basic instructions are provided at the top, but we will go through each editing feature in detail.
+
+<figure id="eip-id1165152967245">
+  <media id="eip-id1165152941418" alt="Empty collection after creation">
+     <image src="http://cnx.org/content/m19610/latest/content-empty.png" mime-type="image/png"/>
+  </media>
+  <caption>
+    A collection in the making, before any content has been added.
+  </caption>
+</figure>
+
+At first, all that is shown is the collection's title (in this case "Tutorial") and the three actions you can take at the collection's top level:
+  <list id="eip-id1172066310950">
+    <item>Add subcollections</item>
+    <item>Add modules</item>
+    <item>Edit title</item>
+  </list>
+Let's start by adding the introductory module to the collection structure.</para>
+
+</section>
+
+
+    <section id="addmodulesection"><title>Add a Module</title><para id="addmodulepara1">You can add already published modules to the collection from the Content 
+	Repository.  You cannot add unpublished modules from your workspaces. 
+	When adding a module, Connexions does not copy the module into your 
+	collection. <emphasis>The module remains in the Content Repository and Connexions 
+	inserts a reference or a pointer to the module in your collection.</emphasis>  
+A module cannot be inserted into a collection more than once.
+      </para>
+
+ <section id="eip-292"><title>Instructions for adding a module</title>
+<para id="eip-id1170804555829">In our example, we first want to add a module entitled <cite><cite-title>Connexions Workshop: Introduction</cite-title></cite> to the top of the collection.  To do this, we start by hovering the mouse over the collection's title.  To the right, there is a link reading "Add modules":
+</para>
+<figure id="eip-id1166536621484">
+  <media id="eip-id8817338" alt="Action links appear when hovering over collection title">
+    <image src="http://cnx.org/content/m19610/latest/add-module-to-collection.png" mime-type="image/png"/>
+  </media>
+  <caption>Hover over the collection title to see the option to "Add modules" to the collection.</caption>
+</figure>
+<para id="eip-id1170804464199">Click the "Add modules" link.  A pop-up appears with a search box.  Enter a word, name, or text string related to the module in the search text box.  Click the "Search for modules" button:
+</para>
+<figure id="eip-id1166537026919">
+  <media id="eip-id1166545708132" alt="Enter a search term in the pop-up">
+    <image src="http://cnx.org/content/m19610/latest/add-module-popup.png" mime-type="image/png"/>
+  </media>
+  <caption>A pop-up appears in which you can use to search for modules to add.</caption>
+</figure>
+<para id="eip-id1170810859118">Results will appear in the same pop-up.  If you don't find the module you were searching for on first attempt, you can try using a different search term, sorting the results by another parameter, adjusting the number of searches that display per page, or going to the next page of results.  Once you find the module or modules you want to add, select the checkbox next to its title(s) and click "Add selected content".
+</para>
+<figure id="eip-id1166537328894">
+  <media id="eip-id1166536655476" alt="Select the checkbox of each module you want to add to the collection">
+    <image src="http://cnx.org/content/m19610/latest/add-module-popup-selected.png" mime-type="image/png"/>
+  </media>
+  <caption>Select the checkbox of each module you want to add to the collection.</caption>
+</figure>
+<para id="eip-id1170820790833">
+The module you've selected to add to the collection will now appear below the collection's title in the composer. Remember that this only a pointer to the published module, not a copy of the module itself.
+</para>
+<figure id="eip-id1166545774308">
+  <media id="eip-id1166533586685" alt="The added module appears in the composer">
+    <image src="http://cnx.org/content/m19610/latest/add-subcollection-to-collection.png" mime-type="image/png"/>
+  </media>
+  <caption>The added module appears in the composer.</caption>
+</figure>
+</section>
+<para id="eip-id1170800334047">Let's now continue on to the next step of adding our two subcollections.
+</para>
+    
+ 
+    </section>
+
+
+<section id="addsection"><title>Add a New Subcollection (Section)</title><para id="addsectionpara1">A subcollection is a grouping of related modules within a collection. Depending on the nature of your collection, you might think of a subcollection as a <emphasis effect="bold">section</emphasis>, <emphasis effect="bold">chapter</emphasis>, <emphasis effect="bold">part</emphasis>, <emphasis effect="bold">folder</emphasis>, <emphasis effect="bold">division</emphasis>, etc.  Each subcollection has a heading that identifies its contents to the viewers. You may place subcollections within other subcollections, as deeply nested as desired. 
+      </para>
+
+
+ <section id="eip-id8852783"><title>Instructions for adding a subcollection</title>
+<para id="eip-id4626056">
+In our example, our collection is structured by two "Parts" that follow the introductory module.  To add these, we start by hovering the mouse over the collection's title.  To the right, there is a link reading "Add subcollections":
+</para>
+<figure id="eip-id1166537334007">
+  <media id="eip-id1166537766888" alt="Action links appear when hovering over collection title">
+    <image src="http://cnx.org/content/m19610/latest/add-subcollection-to-collection.png" mime-type="image/png"/>
+  </media>
+  <caption>Hover over the collection title to see the option to "Add subcollections" to the collection.</caption>
+</figure>
+<para id="eip-id8757512">Click the "Add subcollections" link.  A pop-up appears with a text box.  Enter the titles of the subcollections you want in your collection, <emphasis effect="italics">one per line</emphasis>.  Click the "Add new subcollections" button:
+</para>
+<figure id="eip-id1166539320873"><media id="eip-id1166536953962" alt="Enter subcollection titles in the pop-up">
+    <image src="http://cnx.org/content/m19610/latest/add-subcollections-written.png" mime-type="image/png"/>
+  </media>
+  
+<caption>A pop-up appears in which you can add the titles of your collection's subcollections.</caption></figure>
+<para id="eip-id1166532492342">Your subcollections will now appear in the composer below any other modules or subcollections you've already added at that level.  From there, you can hover your mouse over each subcollection and find a list of actions to take at the subcollection level, such as adding modules, adding nested subcollections, or editing the subcollection's title.
+</para>
+<figure id="eip-id1166536366579">
+  <media id="eip-id1166536608912" alt="Subcollections are added to the composer below previously added content">
+    <image src="http://cnx.org/content/m19610/latest/add-module-to-subcollection.png" mime-type="image/png"/>
+  </media>
+  <caption>Your subcollections are now in the composer and modules can be added inside them.</caption>
+</figure>
+</section>
+<para id="eip-id6169939">Let's add some more modules to each of these subcollections so that your collection structure now looks like this:
+</para>
+<figure id="eip-id1166546190138"><media id="eip-id1166538618163" alt="Collection composer with contents filled out">
+    <image src="http://cnx.org/content/m19610/latest/content-filled.png" mime-type="image/png"/>
+  </media>
+  
+<caption>Modules added to the subcollections.</caption></figure>
+<para id="eip-id1166532038527">Before things are done, we have some changes we want to make.  Let's continue.
+</para></section>
+
+    <section id="rearrange"><title>Rearrange Contents</title><para id="rearrangepara1">Since the collection composer adds modules and subcollections to the bottom of the collection or subcollection where you added them, you will sometimes need to rearrange the modules and subcollections to get them in the desired ordered.  To do this, simply click down on the title of the item you want to move, drag it over to the desired location, and click up to drop it in that location. A dotted line appears where there is a valid location to drop the item.
+     </para>
+
+<figure id="eip-id1170740812269" orient="vertical">
+  <subfigure id="eip-id1170747859882">
+    <media id="eip-id1170745062051" alt="Click down on a title to move it">
+      <image src="http://cnx.org/content/m19610/latest/rearrange-1.png" mime-type="image/png"/>
+    </media>
+    <caption>Click down on the title of a module or subcollection to move it.</caption>
+  </subfigure>
+  <subfigure id="eip-id1170744156394">
+    <media id="eip-id2218458" alt="Drag item over to desired location (indicated by new dotted line) and drop it down.">
+      <image src="http://cnx.org/content/m19610/latest/rearrange-2.png" mime-type="image/png"/>
+    </media>
+    <caption>Drag the module or subcollection over to its new location.  A dotted line appears where there is a valid location to drop the item.</caption>
+  </subfigure>
+</figure>
+
+<note id="eip-id1170756221083">
+Rearrangements don't have to be strictly vertical movements of modules, as shown in the example.  You can move both modules and subcollections, and you can move them up, down, into subcollections, or out of subcollections.
+</note>
+
+<para id="eip-id1170759750335">
+The new structure is automatically saved when the item is dropped in place.
+</para>
+
+<section id="eip-id1170743772522">
+<title>Collapsing/expanding subcollections for easier editing</title>
+<para id="eip-id1170741595158">If your collection contains a lot of modules and subcollections, it can become cumbersome to edit (especially for dragging and dropping).  If this is the case in your collection, you can collapse the subcollection by clicking on the arrow to the left of the subcollection title.
+<figure id="eip-id1170741864567">
+  <media id="eip-id1170745569787" alt="Click the arrow icon next a subcollection's titles to toggle it open or closed">
+    <image src="http://cnx.org/content/m19610/latest/collapse-subcollection.png" mime-type="image/png"/>
+  </media>
+  <caption>Click the arrow icon next to a subcollection's title to toggle it open or closed.</caption>
+</figure>
+Subcollections without any titles do not have the expand/collapse toggles next to their title.
+</para><note id="eip-894">When first checking out a collection, or when returning to the collection composer after having gone elsewhere, all subcollections appear closed by default.  To see and/or edit their contents again, simply click the arrow toggle next to each collection title.</note>
+</section>
+</section>
+
+    <section id="removesection"><title>Remove Contents from the Collection</title><para id="eip-id1166993810484">To remove a module or subcollection from the collection, hover your mouse over the item.  At the right, there will be a link reading "Remove from collection".  In the example, let's say you've decided not to include the module titled <cite><cite-title>Module from Word Document</cite-title></cite>:
+
+<figure id="eip-id1167006132532">
+  <media id="eip-id1167011763753" alt="Hover over an item and a removal link will appear at right">
+    <image src="http://cnx.org/content/m19610/latest/remove-module.png" mime-type="image/png"/>
+  </media>
+</figure>
+
+A pop-up appears confirming that you want to remove the module.  Behind the pop-up, the module marked for deletion is highlighted in pink with its title crossed out:
+
+<figure id="eip-id1167011426343" orient="vertical">
+  <subfigure id="eip-id1167001166836">
+    <media id="eip-id1931626" alt="Pop-up confirming removal of a module">
+      <image src="http://cnx.org/content/m19610/latest/remove-module-popup.png" mime-type="image/png"/>
+    </media>
+    <caption>Confirming removal of a module.</caption>
+  </subfigure>
+  <subfigure id="eip-id1167004980502">
+    <media id="eip-id1166998363787" alt="Pop-up confirming removal of a subcollection">
+      <image src="http://cnx.org/content/m19610/latest/remove-subcollection-popup.png" mime-type="image/png"/>
+    </media>
+    <caption>Example showing the removal of an entire subcollection. Note that the you are shown an extra warning about any modules or subcollections inside the subcollection you are about to remove.</caption>
+  </subfigure>
+</figure>
+</para>
+<note id="eip-id1166993664331">
+  Removing modules from a collection does not remove them from the Content Repository.  It only removes the pointer in your collection to that published module.
+</note></section>
+
+
+
+    <section id="advanced-edits">
+      <title>Advanced Editing of the Collection's Elements</title>
+
+    <section id="changetitle"><title>Provide an Alternate Module Title</title><para id="changetitlepara">Modules that are published in the Content Repository display the titles given to them by
+	their authors. If these titles are not appropriate for the
+	module when it appears in the context of your collection (e.g., it may contain numbering), you can provide an 
+	alternate title for the module. The module displays your 
+        alternate title when it is accessed from within your collection. 
+        The module displays its original title whenever it is accessed 
+        from outside of your collection.  </para>
+<para id="eip-id1170740696221">In our example, let's rename "Creating a Module in Minutes" to "Creating a Connexions Module" in order to match the similarly titled module in Part II of the collection.  Hover over the module's title and click on the "Edit title/version" link that appears to the right:
+<figure id="eip-id1168485163408">
+  <media id="eip-id1168485163410" alt="Hover over module title to access the link to override title">
+    <image src="http://cnx.org/content/m19610/latest/edit-title-version.png" mime-type="image/png"/>
+  </media>
+</figure>
+A pop-up appears.  In the text field under "Alternate Title", type the title with which you want to override the module's title.  Click "Save".
+<figure id="eip-id1170749865233">
+  <media id="eip-id1170740640298" alt="Type the override title in the 'Alternate Title' field">
+    <image src="http://cnx.org/content/m19610/latest/edit-title-popup.png" mime-type="image/png"/>
+  </media>
+</figure>
+
+If you want to undo the override, simply return to the pop-up, erase the text from the "Alternate Title" text field, and click "Save" again.  The module's title will revert to its original one.
+
+      </para></section>
+
+    <section id="setversion"><title>Select the Module Version</title><para id="setversion1para"> 
+	When a module is updated or edited, Connexions saves the previous 
+	version of the module in history and uses the latest version of the 
+	module for viewing. Each new version of a module is given its own 
+	version number. You can either have your collection always use the latest version of the module, or you can pinpoint a specific version to be used.
+      </para>
+
+<para id="eip-id1168159211342">In the example, let's say that version 1.2 of one of the modules we include was a complete reformatting of that module's content, and that the new format no longer makes sense in the context of your collection.  Hover over the module's title and click on the "Edit title/version" link that appears to the right:
+<figure id="eip-id1168159211347">
+  <media id="eip-id1168159211350" alt="Hover over module title to access the link to set the version">
+    <image src="http://cnx.org/content/m19610/latest/edit-title-version.png" mime-type="image/png"/>
+  </media>
+</figure>
+A pop-up appears.  In the "Set Version" area, select version 1.1 from the dropdown.  Click "Save".
+<figure id="eip-id1168146987750">
+  <media id="eip-id1168162711177" alt="Use a dropdown to select the version you want to use.">
+    <image src="http://cnx.org/content/m19610/latest/edit-version-popup.png" mime-type="image/png"/>
+  </media>
+</figure>
+</para></section>
+
+    <section id="editaddlinkssection"><title>Edit or Add Links on a Module</title><para id="linkpara1">Links allow the viewer to display related information or examples 
+        that are not part of the collection with the click of a mouse.  Links 
+        may be defined by the module's author, but they may also be added or redefined/overridden/removed for that module by the collection's author. 
+        Any changes you make in the collection composer to a module's links only display when viewing the module from within your collection.
+</para>
+
+<para id="eip-id1171498007691">In the example, let's say that you felt strongly that the introductory module really needed a link to the Connexions home page.  To add this link, hover your mouse over the module's title.  Click the link at right reading "Edit featured links":
+<figure id="eip-id1171496022180">
+  <media id="eip-id1171507321682" alt="Hover mouse over a module to access the link to its link editor">
+    <image src="http://cnx.org/content/m19610/latest/edit-links.png" mime-type="image/png"/>
+  </media>
+</figure>
+A pop-up appears, and it includes a form where we can enter the new link's information.  (If this module's author had already included links in the module, the form would have been hidden behind a link reading "Create a new link".)  Enter some text for the link, select which type of link it is, the link's strength (how strongly related the link is to the content) and either a URL or the ID of another collection.
+<figure id="eip-id1704391">
+  <media id="eip-id1171505901716" alt="Pop-up showing the link editor">
+    <image src="http://cnx.org/content/m19610/latest/edit-links-popup.png" mime-type="image/png"/>
+  </media>
+</figure>
+Click "Add New Link".  The link will then be added to a table.  From there, you can edit the link, remove it, or add another one.  When you are finished, click the "Done" button.
+<figure id="eip-id1171486464019">
+  <media id="eip-id1171501176773" alt="Pop-up showing the link editor with an existing link already there">
+    <image src="http://cnx.org/content/m19610/latest/edit-links-popup-existing.png" mime-type="image/png"/>
+  </media>
+</figure>
+Now the links will be present on the module when viewed from inside your collection.
+</para>
+    </section>   
+
+    </section>
+
+
+
+
+
+
+    
+
+    
+    
+    <section id="existintsection">
+      <title>Edit an Existing Collection</title>
+
+      <para id="existpara">You can edit an existing collection with the Collection Composer in
+	the same way you create a new collection. You can edit only
+	collections for which you have a maintainer role. To use the 
+	Collection Composer on an existing collection, first make sure you are logged in, then you can:
+<list id="eip-id1166990841846"><item>Either <link document="m11804">derive a copy</link> of a collection (if you wish to make an adaptation of the original collection),</item> 
+<item>Or <link document="m37476" target-id="addingexistingmodules">checkout</link> a collection (yours or someone else's) into one of your work area.</item>
+</list>
+</para>
+    </section>
+   
+	    
+	  
+  </content>
+  
+</document>

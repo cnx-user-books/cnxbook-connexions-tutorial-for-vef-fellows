@@ -1,0 +1,43 @@
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col10395</md:content-id>
+    <md:title>Connexions Tutorial for VEF Fellows</md:title>
+    <md:language>en</md:language>
+    <md:license url="http://creativecommons.org/licenses/by/2.0/">Creative Commons Attribution License</md:license>
+    <md:uuid>b19931f3-c25e-42e5-b049-e2dac7e6bcdf</md:uuid>
+<md:slug>connexions-tutorial-for-vef-fellows</md:slug>
+</metadata>
+  <col:content>
+    <col:subcollection>
+      <md:title>Introduction to Connexions</md:title>
+      <col:content>
+        <col:module document="m14206"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Creating and Editing Modules</md:title>
+      <col:content>
+        <col:module document="m10887"/>
+        <col:module document="m13056"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Composing and Editing Course</md:title>
+      <col:content>
+        <col:module document="m10288"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Collaboration</md:title>
+      <col:content>
+        <col:module document="m13049"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Reference</md:title>
+      <col:content>
+        <col:module document="m14207"/>
+      </col:content>
+    </col:subcollection>
+  </col:content>
+</col:collection>

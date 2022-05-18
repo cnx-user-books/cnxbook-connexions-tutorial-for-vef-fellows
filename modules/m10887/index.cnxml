@@ -1,0 +1,93 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Overview of Authoring Modules</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m10887</md:content-id>
+  <md:title>Overview of Authoring Modules</md:title>
+  <md:abstract>This module gives an overview of the module creation process. This includes the text, files, and metadata of a module. Each step is described in further detail in other modules.</md:abstract>
+  <md:uuid>9638a8a6-14ef-4e6a-8a54-f849a5b42ff3</md:uuid>
+</metadata>
+<featured-links>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit below.
+       Changes to the links section in the source will not be saved. -->
+    <link-group type="supplemental">
+      <link url="http://cnx.org/content/m11817/latest/" strength="3">Suggest Edits</link>
+      <link url="http://cnx.org/content/m11804/latest/" strength="3">Derived Copy</link>
+      <link url="http://cnx.org/technology/EditingTools" strength="3">Editing Tools</link>
+      <link url="http://cnx.org/help/ImportAndExport" strength="2">Importing and Exporting Content</link>
+    </link-group>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit above.
+       Changes to the links section in the source will not be saved. -->
+</featured-links>
+<content>
+
+    <section id="modulesummary">
+      <title>What is a Module?</title>
+      
+      <para id="modulessummarypara">A module is the basic building block of a Connexions course, textbook, or other type of collection. You can think of it as a small knowledge chunk that addresses a single topic or a specific aspect of a topic. Every author determines the size of their module, ranging from a few paragraphs to an entire textbook chapter. To a student or reader viewing a course or collection, a module is simply a web page in the collection. Modules allow readers to follow the information path arranged by the author or instructor or to branch off and discover their own path. To an instructor putting a collection together, having topics in different modules allows easy selection and arrangement of the information. An instructor can include existing modules from other courses or other academic disciplines that are important to the presentation of the course subject.</para>
+</section>
+      	
+      <section id="eip-870"><title>Creating Modules</title><para id="eip-356">You create and edit modules within one of your <link document="m37462">Work Areas</link>. There are two ways to create modules:
+<list id="createmodulelist" list-type="enumerated"><item><link document="m37476" target-id="creatingmodules">Create a new module from scratch.</link></item>
+  <item><link document="m11804">Create an adaptation</link> of an existing module in the repository.</item>
+</list>
+Below are the steps to create a module from scratch.</para>
+
+<para id="create1">
+	You can create a new module from the "Create New Item" dropdown in one of your <link document="m37462">work areas</link>, or you can click the "Create a new module" link on the MyCNX home page:
+
+<figure id="eip-id1168149657226">
+  <media id="eip-id1168152085147" alt="The 'Create a new module' link on the MyCNX home page">
+    <image src="/content/m19610/latest/mycnx-create-and-edit-content.png" mime-type="image/png"/>
+  </media>
+  <caption>Go the "MyCNX" tab and select the "Create a new module" link.</caption>
+</figure>
+
+From there you must agree to the license for this module, select a work area in which to edit the content, and then enter the module's initial metadata.
+</para>   
+
+      <para id="metadata1">After accepting the license, you will be asked to enter some basic information, or metadata, about your module before getting started.  (If you haven't already selected a work area in which to work on the module, you will be asked to do so.)  The basic metadata include:
+<list id="sublist" list-type="bulleted"><item><label>Title (required)</label> A title for the module</item>
+<item><label>Language (required)</label> The primary language used in the module</item>
+<item><label>Subject(s)</label> The subject categories that apply to the module</item>
+<item><label>Keywords</label> Terms that describe the most important topics in the module</item>
+<item><label>Summary</label> A brief description of the module. You may markup the summary section with inline CNXML tags.</item>
+</list>
+
+<figure id="eip-id1172051151076"><media id="eip-id1172069953627" alt="Basic metadata fields">
+    <image src="/content/m19610/latest/module-metadata.png" mime-type="image/png"/>
+  </media>
+<caption>Enter basic information about your module here.</caption></figure>
+</para><para id="eip-979">Click the <code>Save</code> button. The metadata entries are saved and the "Contents" tab displays with the title of the collection. This tab is where you do the actual editing of the module content.
+</para>
+    </section>
+
+
+    
+      
+
+    <section id="modules">
+      <title>Editing Modules</title>
+      <para id="editmodulespara1">Once you have opened a new or adapted module within one of your Work Areas, you will need to edit the module to 
+	add content and files (such as images). These operations are performed with the links 
+	and buttons on the "Manage Files" screen or the "Module Status" sidebar. The 
+	recommended sequence to perform these operations in is described in this module 
+	and appears in the following list:
+      
+	    <list id="sequecncelist" list-type="enumerated"><item>Edit the <link document="m38193">CNXML</link> file.</item>
+	      <item><link document="m38190">Add</link> any other files that you 
+	      want to associate with the module.</item>
+	      <item>Edit the <link document="m38204">metadata</link> to enter the 
+	      appropriate search keywords and the module title.</item>
+	      <item>Edit the module <link document="m38177">roles</link>.</item>
+	      <item>Add <link document="m38206">links</link> to the module.</item>
+	      <item><link document="m38209">Preview</link> the module in both print 
+	      and on-line versions.</item>
+	      <item><link document="m13054">Publish</link> the module.</item>
+	    </list>
+</para>
+    </section>
+
+ 
+
+  </content>
+</document>
